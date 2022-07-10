@@ -338,7 +338,7 @@ if __name__== "__main__":
 
 > Image with `Python`, `MongoDB` & `HTML` Code below.
 
-**Code and Image**
+**Code**
 
 
 ````python
